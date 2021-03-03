@@ -8,7 +8,7 @@ this bot, and our personal chat will be safe and clean.
 
 ### Deploying on Heroku:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/m4mallu/PMChatbot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/m4mallu/PMChatbot)
 
 ### 💠 USAGE
 
